@@ -1,4 +1,4 @@
-Hola, soy Alexis Guerrer👋👩🏾‍💻
+Hola, soy Alexis Guerrero👋👩🏾‍💻
 Me gusta hacer realidad propuestas de diseño para solucionar alguna problemática aplicando mis conocimientos orientados a desarrollo web.
 
 Me gusta los nuevos retos, estar en constante aprendizaje, compartir conocimientos porque creo que se aprende mucho de la experiencia de otros compañeros, así mismo tener feedback.

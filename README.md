@@ -1,7 +1,19 @@
 Hola, soy Alexis Guerrero👋👩🏾‍💻
+
+Soy un desarrollador de Front-End que ha aplicado JavaScript , HTML5, Css, C# y NodeJS para crear aplicaciones en el lado de Back-end y front con marcos como NestJS y .NET. Programo aplicaciones web de integración completa utilizando metodologías de desarrollo como Github, Slack, SCRUM y Kanban. 
 Me gusta hacer realidad propuestas de diseño para solucionar alguna problemática aplicando mis conocimientos orientados a desarrollo web.
 
-Me gusta los nuevos retos, estar en constante aprendizaje, compartir conocimientos porque creo que se aprende mucho de la experiencia de otros compañeros, así mismo tener feedback.
+Me gusta los nuevos retos, compartir conocimientos porque creo que se aprende mucho de la experiencia de otros compañeros, así mismo tener feedback.
+
+🐉 Actualmente estoy estudiando como estudiante de Platzi Master.
+
+🔭 En este momento, estoy mejorando mis habilidades blandas.
+
+🌱 Estoy tratando de aprender computación en la nube y Devops.
+
+🎣 Estoy buscando nuevos horizontes.
+
+
 
 Algunas tecnologías que domino:
 <div style="display: inline_block">
